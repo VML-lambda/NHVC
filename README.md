@@ -1,6 +1,6 @@
 # NHVC: Neural Holographic Video Compression with Scalable Architecture,<br> IEEE VR 2024
 This repository contains the source codes of the paper [NHVC: Neural Holographic Video Compression with Scalable Architecture](https://ieeexplore.ieee.org/abstract/document/10494082)  
-Hyunmin Ban, Seungmi Choi, Jun Yeong Cha, Yeongwoong Kim and [Hui Yong Kim](https://vmlab.khu.ac.kr)  
+**Hyunmin Ban**, Seungmi Choi, Jun Yeong Cha, Yeongwoong Kim and **[Hui Yong Kim](https://vmlab.khu.ac.kr)**  
 
 ![teaser](./img/teaser.png)
 
@@ -29,6 +29,7 @@ python train.py --train --video_path ./data/VideoSet --channel g --stage_mode st
 ```
 
 To test the model, we used the [DIV2K valid dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and [UVG dataset](https://ultravideo.fi/dataset.html).
+We release the our [model checkpoint](https://drive.google.com/drive/folders/1-8dk7wb_V7ag7FTBg71VbVoXBFZayXZ4)  which you can download.
 
 ## Parameters
 The `config.py` file contains several parameters that influence different stages of the process. Below is a detailed explanation of each parameter and its usage:
