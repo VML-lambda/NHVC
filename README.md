@@ -69,4 +69,4 @@ The `config.py` file contains several parameters that influence different stages
 ```
 
 ## Contact
-If you have any questions, please email Hyunmin Ban at <hmban1996@naver.com>.
+If you have any questions, please email Hui Yong Kim at <hykim.v@khu.ac.kr> or Hyunmin Ban at <hmban1996@naver.com>.
