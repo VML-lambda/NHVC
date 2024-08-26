@@ -1,5 +1,5 @@
 # NHVC: Neural Holographic Video Compression with Scalable Architecture,<br> IEEE VR 2024
-This repository contains the source codes of the paper [NHVC: Neural Holographic Video Compression with Scalable Architecture](https://ieeexplore.ieee.org/abstract/document/10494082)  
+This repository contains the source codes of the paper **[NHVC: Neural Holographic Video Compression with Scalable Architecture](https://ieeexplore.ieee.org/abstract/document/10494082)**  
 **Hyunmin Ban**, Seungmi Choi, Jun Yeong Cha, Yeongwoong Kim and **[Hui Yong Kim](https://vmlab.khu.ac.kr)**  
 
 ![teaser](./img/teaser.png)
