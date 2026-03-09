@@ -29,7 +29,7 @@ python train.py --train --video_path ./data/VideoSet --channel g --stage_mode st
 ```
 
 To test the model, we used the [DIV2K valid dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and [UVG dataset](https://ultravideo.fi/dataset.html).
-We release the our [model checkpoint](https://drive.google.com/drive/folders/1-8dk7wb_V7ag7FTBg71VbVoXBFZayXZ4)  which you can download.
+We release the our [model checkpoint](https://drive.google.com/file/d/1386oAaUzK8l7dzGi5_Anbrk93wjjGHxH/view?usp=drive_link)  which you can download.
 
 ## Parameters
 The `config.py` file contains several parameters that influence different stages of the process. Below is a detailed explanation of each parameter and its usage:
